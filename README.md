@@ -18,3 +18,5 @@ Refer to [this guide](http://stackoverflow.com/questions/2061094/importing-maven
 
 ## Run the project
 You can run the program from [App.java](https://github.com/Gisonrg-in-NUS/KWIC-demo/blob/master/src/main/java/sg/edu/nus/comp/cs3219/App.java).
+
+## Edited this for tutorial 3
